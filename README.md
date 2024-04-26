@@ -1,8 +1,8 @@
-<div align="center">
-    <h1>Reversi (Othello)</h1>
-    Developed visually appealing and multifunctional Othello through the graphical framework Swing.
-    [**English**](./README.md) | [**中文简体**](./README_zh-CN.md)
-</div>
+# Reversi (Othello)
+
+[**English**](./README.md) | [**中文简体**](./README_zh-CN.md)
+
+Developed visually appealing and multifunctional Othello through the graphical framework Swing.
 
 ## Features:
 
